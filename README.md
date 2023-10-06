@@ -24,8 +24,7 @@ Roots & Rituals is a user-friendly traditional wear clothing website created usi
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/username/roots-and-rituals.git
-
+   git clone https://github.com/akarshi19/Roots-Ritiuals.git
 2. Open the project folder in your code editor.
 
 ## Usage
